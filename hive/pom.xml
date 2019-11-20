@@ -9,7 +9,7 @@
 
     <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-      <hive-api.version>0.14.0</hive-api.version>
+      <hive-api.version>3.1.2</hive-api.version>
       <hadoop-api.version>2.6.0</hadoop-api.version>
       <hadoop-core.version>1.2.1</hadoop-core.version>
     </properties>
@@ -25,7 +25,7 @@
     <dependency>
             <groupId>org.apache.hive</groupId>
             <artifactId>hive-exec</artifactId>
-            <version>0.14.0</version>
+            <version>3.1.2</version>
         </dependency>
         <dependency>
             <groupId>org.apache.calcite</groupId>
