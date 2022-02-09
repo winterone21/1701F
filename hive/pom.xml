@@ -10,7 +10,7 @@
     <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       <hive-api.version>0.14.0</hive-api.version>
-      <hadoop-api.version>2.6.0</hadoop-api.version>
+      <hadoop-api.version>2.10.1</hadoop-api.version>
       <hadoop-core.version>1.2.1</hadoop-core.version>
     </properties>
     <dependencies>
